@@ -1,0 +1,30 @@
+body{
+    background-image:url(1111.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 950px;
+}
+form{
+    border: solid;
+    width: 300px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: rgba(236, 236, 124, 0.652);
+}
+h1{
+    color: rgb(40, 26, 9);
+    text-align: center;
+}
+label{
+    color: rgb(23, 112, 191);
+    font-size: 30px ;
+    font-weight:bold;
+}
+input{
+    height: 20px;
+  
+}
+button{
+    height: 40px;
+    width:120px;
+    background-color: aquamarine;
+}

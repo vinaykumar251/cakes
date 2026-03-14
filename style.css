@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-image: url(123.avif);
+    background-repeat: no-repeat;
+    background-size: 1550px 760px;
+}
+#text1{
+    color:rgb(0, 0, 0); 
+    font-size: 50px;
+    margin-top: 50px;
+    padding: 10px;
+    
+}
+#text2{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+}
+button{
+    height: 50px;
+    width: 180px;
+    background-color:rgb(232, 57, 22);
+    border-radius:25px;
+}
+button a{
+    color:white;
+    font-size: 22px;
+    text-decoration: none;
+    font-weight:unset;
+}
+button:hover{
+    background-color: rgb(204, 130, 226);
+}
